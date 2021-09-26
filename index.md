@@ -27,4 +27,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support
 
-Telegram:  [VoiceToTextSupport](t.me/VoiceToTextSupport)
+Telegram:  [VoiceToTextSupport](https://t.me/VoiceToTextSupport)
