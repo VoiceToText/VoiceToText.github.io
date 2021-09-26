@@ -1,12 +1,13 @@
 ## به وبسایت بات تبدیل ویس به متن خوش آمدید
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### معرفی
 
 ```markdown
-Syntax highlighted code block
+این بات برای تبدیل ویس فارسی به متن فارسی ساخته شده است
+و از انجین گوگل که بهترین انجین تبدیل صدا به متن هست استفاده میکند
+
+
+
 
 # Header 1
 ## Header 2
