@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: VoiceToTextRobot
 logo: /1.jpg
 github:
-  is_project_page: false
+  is_project_page: true
